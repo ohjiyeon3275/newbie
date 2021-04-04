@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<school>
+	<subject>
+		<title>javascipt+jQuery+Ajax</title>
+		<time>월수금</time>
+		<teacher>주영</teacher>
+	</subject>
+	
+	<subject>
+		<title>html</title>
+		<time>화목</time>
+		<teacher>주영</teacher>
+	</subject>
+	
+	<subject>
+		<title>java</title>
+		<time>화목</time>
+		<teacher>이광</teacher>
+	</subject>
+
+</school>
